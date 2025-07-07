@@ -26,11 +26,30 @@
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next" />
-<br>
+
+## Programming Languages
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts" /> <br /><br />
+
+## Frameworks and Library
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs" /> <br /><br />
+
+## DB and Dev Tools etc
+
+<img src="https://skillicons.dev/icons?i=tailwind,supabase,npm,git,github,vercel,vscode,vite,wordpress,discord" /> <br /><br />
 
 ## I wanna ... 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,go,aws,googlecloud" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,django,fastapi,go,mongodb,aws,googlecloud" />
+
+## Hobby
+🎧listen to music<br />
+💿DJing<br />
+🎵compose music<br />
+🖼️go to an art museum<br />
+🐈play with my cat<br />
+🧑‍🧑‍🧒spend time with my family<br />
+👣walking
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
