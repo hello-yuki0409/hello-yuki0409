@@ -35,7 +35,7 @@
 
 ## DB and Dev Tools etc
 
-<img src="https://skillicons.dev/icons?i=tailwind,supabase,npm,git,github,vercel,vscode,vite,wordpress,discord" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=tailwind,supabase,firebase,npm,git,github,vercel,vscode,vite,wordpress,discord" /> <br /><br />
 
 ## I wanna ... 
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,django,fastapi,go,mongodb,aws,googlecloud" />
