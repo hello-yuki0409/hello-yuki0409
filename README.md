@@ -44,10 +44,9 @@
 [Qiita](https://qiita.com/Uyuki_0409)
 
 # Hobby
+🤖automation<br />
 🎧listen to music<br />
-💿DJing<br />
-🎵compose music<br />
-🖼️go to an art museum<br />
-🐈play with my cat<br />
-🧑‍🧑‍🧒spend time with my family<br />
+🏸play badminton<br />
+🐕play with my dog<br />
+🐕walk with my dog<br />
 👣walking
