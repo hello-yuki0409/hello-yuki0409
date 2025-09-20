@@ -26,19 +26,22 @@
 # 🌱 Skills
 
 ## Programming Languages
-
 <img src="https://skillicons.dev/icons?i=html,css,js,ts" /> <br /><br />
 
-## Frameworks and Library
+## Runtime / Platform
+<img src="https://skillicons.dev/icons?i=nodejs" /> <br /><br />
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,jest,tailwind" /> <br /><br />
+## Frameworks and Libraries
+<img src="https://skillicons.dev/icons?i=react,nextjs,jest,tailwind" /> <br /><br />
 
-## DB and Dev Tools etc
+## Database
+<img src="https://skillicons.dev/icons?i=supabase,firebase" /> <br /><br />
 
-<img src="https://skillicons.dev/icons?i=tailwind,supabase,firebase,npm,git,github,vercel,vscode,vite,wordpress,discord" /> <br /><br />
+## Dev Tools
+<img src="https://skillicons.dev/icons?i=npm,git,github,vercel,vscode,vite,wordpress" /> <br /><br />
 
-## I wanna ... 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=rails,python,django,fastapi,go,rust,mongodb,aws,googlecloud,docker" />
+## I wanna Learn...
+<img src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,go,rust,rails,django,fastapi,mongodb,aws,googlecloud,docker" />
 
 # Tech Blog
 [Qiita](https://qiita.com/Uyuki_0409)
