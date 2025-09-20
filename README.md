@@ -31,14 +31,14 @@
 
 ## Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,jest,tailwind" /> <br /><br />
 
 ## DB and Dev Tools etc
 
 <img src="https://skillicons.dev/icons?i=tailwind,supabase,firebase,npm,git,github,vercel,vscode,vite,wordpress,discord" /> <br /><br />
 
 ## I wanna ... 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,django,fastapi,go,mongodb,aws,googlecloud" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=rails,python,django,fastapi,go,rust,mongodb,aws,googlecloud,docker" />
 
 # Tech Blog
 [Qiita](https://qiita.com/Uyuki_0409)
