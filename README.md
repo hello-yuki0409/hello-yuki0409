@@ -35,7 +35,7 @@
 <img src="https://skillicons.dev/icons?i=react,nextjs,jest,tailwind" /> <br /><br />
 
 ## Database
-<img src="https://skillicons.dev/icons?i=supabase,firebase" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=supabase,firebase,prisma" /> <br /><br />
 
 ## Dev Tools
 <img src="https://skillicons.dev/icons?i=npm,git,github,vercel,vscode,vite,wordpress" /> <br /><br />
