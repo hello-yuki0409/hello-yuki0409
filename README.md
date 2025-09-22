@@ -14,7 +14,7 @@
 <!-- 2. プロフィールや連絡先を変更 -->
 # Hi there
 
-- 🧑‍💻 I'm a engineer.
+- 🧑‍💻 I'm a Web developer.
 - 🌱 I’m currently learning React!
 - 📫 How to reach me: [Twitter - @weblogv2](https://x.com/weblogv2)
 <br>
