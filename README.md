@@ -16,6 +16,7 @@
 
 - 🧑‍💻 I'm a Web developer.
 - 🌱 I’m currently learning React!
+- 👨‍💻 Tech Blog: [Qiita](https://qiita.com/Uyuki_0409)
 - 📫 How to reach me: [Twitter - @weblogv2](https://x.com/weblogv2)
 <br>
 
@@ -42,9 +43,6 @@
 
 ## I wanna Learn...
 <img src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,go,rust,rails,django,fastapi,mongodb,aws,googlecloud,docker" />
-
-# Tech Blog
-[Qiita](https://qiita.com/Uyuki_0409)
 
 # Hobby
 🤖automation<br />
