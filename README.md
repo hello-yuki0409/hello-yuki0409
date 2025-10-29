@@ -32,17 +32,21 @@
 ## Runtime / Platform
 <img src="https://skillicons.dev/icons?i=nodejs" /> <br /><br />
 
-## Frameworks and Libraries
-<img src="https://skillicons.dev/icons?i=react,nextjs,jest,tailwind" /> <br /><br />
+## Frameworks / Libraries
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,jest" /> <br /><br />
 
-## Database
-<img src="https://skillicons.dev/icons?i=supabase,firebase,prisma" /> <br /><br />
+## Backend / BaaS
+<img src="https://skillicons.dev/icons?i=firebase,supabase" /> <br /><br />
 
-## Dev Tools
-<img src="https://skillicons.dev/icons?i=npm,git,github,vercel,vscode,vite,wordpress" /> <br /><br />
+## Database ORM / Developer Tools
+<img src="https://skillicons.dev/icons?i=prisma" /> <br /><br />
+
+## DevOps / Tools
+<img src="https://skillicons.dev/icons?i=git,github,npm,vercel,vscode,vite,wordpress" /> <br /><br />
 
 ## I wanna Learn...
 <img src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,go,rust,rails,django,fastapi,mongodb,aws,googlecloud,docker" />
+
 
 # Hobby
 🤖automation<br />
