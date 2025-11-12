@@ -41,11 +41,13 @@
 ## Database ORM / Developer Tools
 <img src="https://skillicons.dev/icons?i=prisma" /> <br /><br />
 
-## DevOps / Tools
-<img src="https://skillicons.dev/icons?i=git,github,npm,vercel,vscode,vite,wordpress" /> <br /><br />
+## DevOps / CI/CD / Tools
+<img src="https://skillicons.dev/icons?i=git,github,npm,vercel,vscode,vite,wordpress,docker" /> <br /><br />
+<sub>※ Dockerを用いたローカル開発環境構築・軽量コンテナでの実行経験あり</sub>
 
 ## I wanna Learn...
-<img src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,go,rust,rails,django,fastapi,mongodb,aws,googlecloud,docker" />
+<img src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,go,rust,rails,django,fastapi,mongodb,aws,googlecloud" />
+
 
 
 # Hobby
