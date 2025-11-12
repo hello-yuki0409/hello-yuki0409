@@ -42,7 +42,7 @@
 <img src="https://skillicons.dev/icons?i=prisma" /> <br /><br />
 
 ## DevOps / CI/CD / Tools
-<img src="https://skillicons.dev/icons?i=git,github,npm,vercel,vscode,vite,wordpress,docker" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=git,github,npm,vercel,vscode,vite,docker" /> <br /><br />
 <sub>※ Dockerを用いたローカル開発環境構築・軽量コンテナでの実行経験あり</sub>
 
 ## I wanna Learn...
