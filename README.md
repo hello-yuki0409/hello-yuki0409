@@ -43,9 +43,9 @@
 
 
 # Hobby
+🎲board games<br />
 🤖automation<br />
 🎧listen to music<br />
 🏸play badminton<br />
 🐕play with my dog<br />
 🐕walk with my dog<br />
-👣walking
