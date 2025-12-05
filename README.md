@@ -1,15 +1,10 @@
 <h1 align="center">
   Hello! I'm Urata!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
-</h1>
-<p align="left">
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hello-yuki0409&layout=compact&show_icons=true&theme=chartreuse-dark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=hello-yuki0409&theme=chartreuse-dark&show_icons=true" />
-</p>
-<!-- 1. GitHub usernameを変更 -->
-<div align="right">
+  <div align="right">
   <img src="https://komarev.com/ghpvc/?username=hello-yuki0409" />
 </div>
+</h1>
 
 <!-- 2. プロフィールや連絡先を変更 -->
 # Hi there
@@ -20,9 +15,6 @@
 - 📫 How to reach me: [Twitter - @weblogv2](https://x.com/weblogv2)
 <br>
 
-
-<!-- 3. 好きな技術スタックに変更 -->
-<!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 # 🌱 Skills
 
